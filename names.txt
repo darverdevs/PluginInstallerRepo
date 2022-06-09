@@ -1,1 +1,11 @@
 
+1. antiswear	2. bitchfilter	
+3. coreprotect	4. crackshot	
+5. craftbook	6. dupepatch	
+7. dynmap	8. essentials	
+9. essentialsantibuild	10. essentialschat	
+11. essentialsprotect	12. essentialsspawn	
+13. factions	14. mcore	
+15. mywarp	16. permissionsex	
+17. protocollib	18. vault	
+19. worldedit	20. worldguard	
